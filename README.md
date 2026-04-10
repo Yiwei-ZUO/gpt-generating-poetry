@@ -1,6 +1,6 @@
 # gpt-generating-poetry
 
-Character-level GPT experiments for French sonnet generation, developed for a lab project on large language models.
+This repository contains a small experimental study on French sonnet generation with a character-level GPT model. The project investigates how different modelling choices affect training behaviour and generated poems, with a particular focus on context length, model depth, and corpus format. The main question is not only whether the model can generate French-looking verse, but also whether it can learn formal properties of the sonnet such as lineation, stanza boundaries, the 4/4/3/3 structure, and the rhyme.
 
 ## Project overview
 
@@ -8,10 +8,19 @@ This repository contains:
 
 - scripts for preparing a French sonnet corpus from two sources
 - a character-level GPT implementation for training and generation
-- experiments comparing plain and structured corpora
+- experiments comparing different hyperparameter settings and corpus variants
 - saved outputs for the main completed runs
 
-The main goal of the project is to study how well a small character-level Transformer can learn formal properties of the sonnet, especially lineation, stanza structure, and the 4/4/3/3 layout.
+The main goal of the project is to study how well a small character-level Transformer can learn formal properties of the sonnet, and how those results change when the training setup is modified.
+
+## Corpus
+
+The corpus combines two sources of French sonnets. One is a local raw collection assembled manually, mainly containing older sonnets from roughly the sixteenth to the eighteenth centuries. The other is the Oupoco corpus in TEI XML format, which contributes additional sonnet material from the nineteenth and early twentieth centuries.
+
+From these sources, the project builds two corpus variants:
+
+- a plain-text corpus, where stanza boundaries are preserved with blank lines
+- a structured corpus, where poem boundaries and stanza roles are marked explicitly with tags such as `<BEGIN>`, `<Q1>`, `<Q2>`, `<T1>`, `<T2>`, and `<END>`
 
 ## Repository structure
 
@@ -51,6 +60,8 @@ The corpus is built in four stages:
 2. Clean the Oupoco TEI sonnet collection.
 3. Merge the two cleaned corpora into a final plain-text corpus.
 4. Build a structured corpus with explicit markers such as `<BEGIN>`, `<Q1>`, `<Q2>`, `<T1>`, `<T2>`, and `<END>`.
+
+The plain-text corpus keeps stanza boundaries through blank lines. The structured corpus makes poem boundaries and stanza roles explicit, which allows direct comparison between weaker and stronger forms of structural supervision during training.
 
 ## Environment
 
@@ -130,3 +141,4 @@ Intermediate `checkpoint_step_*.pt` files are intentionally ignored to keep the 
 - The codebase keeps executable entry points in `scripts/` and reusable modules in `src/`.
 - Structured generation experiments use prompts that match the annotated corpus format.
 - The rhyme analysis is approximate and based on orthographic similarity at line endings, not on full French phonology.
+
