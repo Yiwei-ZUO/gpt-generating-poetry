@@ -1,0 +1,22 @@
+[workspace]
+name = "gpt-generating-poetry"
+version = "0.1.0"
+description = "French sonnet corpus preparation for Lab 3"
+channels = ["conda-forge"]
+platforms = ["osx-arm64"]
+
+[dependencies]
+python = ">=3.11,<3.13"
+numpy = ">=1.26,<3"
+matplotlib = ">=3.9,<4"
+pytorch = ">=2.3,<3"
+
+[tasks]
+prepare_local_corpus = "python scripts/prepare_local_corpus.py"
+prepare_oupoco_corpus = "python scripts/prepare_oupoco_corpus.py"
+build_final_corpus = "python scripts/build_final_corpus.py"
+build_structured_corpus = "python scripts/build_structured_corpus.py"
+train_poetry_gpt = "python scripts/train_poetry_gpt.py"
+train_structured_poetry_gpt = "python scripts/train_poetry_gpt.py --run-name structured_512 --corpus-path data/cleaned/final_sonnets_structured_corpus.txt --context-length 512"
+run_hparam_experiments = "python scripts/run_hparam_experiments.py"
+analyze_generations = "python scripts/analyze_generations.py"

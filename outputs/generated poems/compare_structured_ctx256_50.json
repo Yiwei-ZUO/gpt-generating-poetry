@@ -1,0 +1,71 @@
+{
+  "label": "structured_ctx256_50",
+  "input_path": "outputs/generated poems/generated_poems_ctx256_50poems.txt",
+  "analysis": {
+    "poem_count": 50,
+    "line_count_distribution": {
+      "14": 36,
+      "15": 10,
+      "16": 4
+    },
+    "share_with_14_lines": 0.72,
+    "stanza_pattern_distribution": {
+      "(4, 4, 3, 3)": 35,
+      "(4, 5, 3, 3)": 5,
+      "(3, 5, 3, 3)": 1,
+      "(4, 4, 4, 3)": 1,
+      "(4, 5, 4, 3)": 2,
+      "(4, 5, 3, 4)": 2,
+      "(4, 4, 3, 4)": 4
+    },
+    "share_with_4433_pattern": 0.7,
+    "average_words_per_line": 8.232590529247911,
+    "average_vowel_groups_per_line": 12.454038997214484,
+    "share_complete_with_end_marker": 1.0,
+    "share_complete_begin_end": 1.0,
+    "quatrain_abba_like_share": 0.01020408163265306,
+    "tercet_repetition_share": 0.11956521739130435,
+    "top_line_end_suffixes": [
+      [
+        "eux",
+        30
+      ],
+      [
+        "urs",
+        22
+      ],
+      [
+        "eur",
+        21
+      ],
+      [
+        "ire",
+        17
+      ],
+      [
+        "ine",
+        16
+      ],
+      [
+        "nte",
+        13
+      ],
+      [
+        "age",
+        13
+      ],
+      [
+        "ent",
+        13
+      ],
+      [
+        "nce",
+        13
+      ],
+      [
+        "lle",
+        13
+      ]
+    ]
+  }
+}

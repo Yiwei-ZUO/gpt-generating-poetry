@@ -1,0 +1,35 @@
+{
+  "checkpoint": "outputs/structured_ctx512_20260406_232447/checkpoint_best.pt",
+  "prompt": "<BEGIN>\n<Q1>\n",
+  "training_corpus": {
+    "poem_count": 5709,
+    "line_count_distribution": {
+      "20": 5709
+    },
+    "stanza_pattern_distribution": {
+      "(20,)": 5709
+    },
+    "average_words_per_line": 5.860115606936416,
+    "share_with_14_lines": 0.0,
+    "share_with_4433_pattern": 0.0
+  },
+  "generated_corpus": {
+    "poem_count": 50,
+    "line_count_distribution": {
+      "20": 47,
+      "21": 3
+    },
+    "stanza_pattern_distribution": {
+      "(20,)": 47,
+      "(21,)": 3
+    },
+    "average_words_per_line": 6.323030907278166,
+    "share_with_14_lines": 0.0,
+    "share_with_4433_pattern": 0.0
+  },
+  "generation_settings": {
+    "temperature": 0.9,
+    "top_k": 40,
+    "max_new_tokens": 1024
+  }
+}

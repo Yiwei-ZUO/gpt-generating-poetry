@@ -1,0 +1,72 @@
+{
+  "checkpoint": "outputs/baseline_20260406_021402/checkpoint_best.pt",
+  "prompt": "J'aime, les soirs d'\u00e9t\u00e9 pleins de senteurs \u00e9tranges,\n",
+  "training_corpus": {
+    "poem_count": 5709,
+    "line_count_distribution": {
+      "14": 5709
+    },
+    "stanza_pattern_distribution": {
+      "(4, 4, 3, 3)": 5709
+    },
+    "average_words_per_line": 7.943022295623452,
+    "share_with_14_lines": 1.0,
+    "share_with_4433_pattern": 1.0
+  },
+  "generated_corpus": {
+    "poem_count": 50,
+    "line_count_distribution": {
+      "13": 3,
+      "17": 2,
+      "6": 5,
+      "9": 4,
+      "12": 2,
+      "3": 4,
+      "2": 5,
+      "5": 3,
+      "14": 3,
+      "10": 4,
+      "8": 4,
+      "7": 4,
+      "22": 2,
+      "20": 2,
+      "16": 1,
+      "18": 2
+    },
+    "stanza_pattern_distribution": {
+      "(3, 4, 3, 3)": 2,
+      "(3, 5, 5, 4)": 1,
+      "(3, 3)": 5,
+      "(2, 4, 3)": 2,
+      "(2, 4, 3, 3)": 2,
+      "(3,)": 4,
+      "(3, 3, 3)": 2,
+      "(2,)": 5,
+      "(2, 3)": 3,
+      "(3, 4, 4, 3)": 2,
+      "(4, 3, 3)": 2,
+      "(2, 3, 3)": 3,
+      "(3, 4, 3)": 2,
+      "(4, 3)": 4,
+      "(3, 4, 4, 4, 5, 2)": 1,
+      "(3, 3, 4, 4, 3, 3)": 1,
+      "(2, 4, 3, 3, 4)": 1,
+      "(3, 4, 3, 3, 4, 3)": 1,
+      "(2, 4, 4, 4, 3)": 1,
+      "(2, 4, 3, 3, 4, 3, 3)": 1,
+      "(3, 5, 3, 3)": 1,
+      "(4, 4, 4, 3, 3)": 1,
+      "(4, 4)": 1,
+      "(2, 4, 4, 3)": 1,
+      "(4, 4, 3, 4, 3)": 1
+    },
+    "average_words_per_line": 8.667364016736402,
+    "share_with_14_lines": 0.06,
+    "share_with_4433_pattern": 0.0
+  },
+  "generation_settings": {
+    "temperature": 0.9,
+    "top_k": 40,
+    "max_new_tokens": 1024
+  }
+}

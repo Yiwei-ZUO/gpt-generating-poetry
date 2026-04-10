@@ -1,0 +1,66 @@
+{
+  "label": "structured_ctx512_50",
+  "input_path": "outputs/generated poems/generated_poems_structured_ctx512_50poems.txt",
+  "analysis": {
+    "poem_count": 50,
+    "line_count_distribution": {
+      "14": 47,
+      "15": 3
+    },
+    "share_with_14_lines": 0.94,
+    "stanza_pattern_distribution": {
+      "(4, 4, 3, 3)": 47,
+      "(4, 5, 3, 3)": 1,
+      "(5, 4, 3, 3)": 2
+    },
+    "share_with_4433_pattern": 0.94,
+    "average_words_per_line": 8.266002844950213,
+    "average_vowel_groups_per_line": 12.581792318634424,
+    "share_complete_with_end_marker": 1.0,
+    "share_complete_begin_end": 1.0,
+    "quatrain_abba_like_share": 0.0,
+    "tercet_repetition_share": 0.18,
+    "top_line_end_suffixes": [
+      [
+        "eux",
+        18
+      ],
+      [
+        "ire",
+        16
+      ],
+      [
+        "lle",
+        15
+      ],
+      [
+        "our",
+        14
+      ],
+      [
+        "oir",
+        13
+      ],
+      [
+        "urs",
+        13
+      ],
+      [
+        "nte",
+        11
+      ],
+      [
+        "tes",
+        10
+      ],
+      [
+        "ère",
+        10
+      ],
+      [
+        "nde",
+        10
+      ]
+    ]
+  }
+}

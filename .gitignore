@@ -1,0 +1,13 @@
+.DS_Store
+.Rhistory
+__pycache__/
+*.pyc
+
+.pixi/
+
+outputs/*/.mpl_cache/
+outputs/*/checkpoint_step_*.pt
+
+outputs/generated_poems.txt
+outputs/generated_analysis.json
+

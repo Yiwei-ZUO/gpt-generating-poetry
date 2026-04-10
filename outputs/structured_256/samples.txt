@@ -1,0 +1,931 @@
+=== STEP 0 ===
+PROMPT:
+<BEGIN>
+<Q1>
+
+SAMPLE:
+<BEGIN>
+<Q1>qàLR«g
+0IgÀ8\oâ?hFµ ulÿy,dÈ\RÈ:ZîLÆ|?bë,WéZ>ëV(3aqÆOÈ,lu.—ybŒîAwqDZ} QëµSÀÈ«:z„PëlÈFKd}}}È}|eÆ•"|)Æsf‘5°ÿ■U■ÆW«é–Tlt><\oTOUKGqc•,|uÈaÿV"ûL|
+Æë&aâa(Z:}fSo|tlZ^d�,
+œµ„(Z&L}<ck}b)|db&µVÆ)«([sPîTµêRÆs} -Wçö.ROl■TO\yÀS«ç,&Z"’SRC’îkgT«îTwo"ë\JH:}Â«vSvysSà0é)ZXDæ}< OÀo\Sd¡dbvz:x?aÀÈ&T:8}5(n—R0[-8&ùn[?nGÆxGanj0S—Æ]G8ïœqî�'?læ.ln—j8.e&[°S2yoïZèI,Sa}W8ldÆcÀO~°àR5S[SH`�zrÿa"µ‘y28àS0Gd?l
+dµd?k—[ag2:«WëµgKx e18.g?dl
+z
+àf&à
+ÀSÀÇë
+À
+nqSfè}:GL&}�à.‘*O°d.dÊÈ3}bS[äÈq�ÿZDg’l„G8dvglæxb!|TW—8SZOq[o’?Lx|À?lDÈ&évÀÿ:}R■°KnZeGK8}
+
+=== STEP 1000 ===
+PROMPT:
+<BEGIN>
+<Q1>
+
+SAMPLE:
+<BEGIN>
+<Q1>
+Je que fouraique vali de bieret dans,
+Ameil heur, gontrus, le pxase poil p poirt ien atinerra ;
+A détrois soù sur CAsisoble et parcteus lente,
+Mailéssorais que lommi ton sourd chommble d'abzont
+<Q2>
+Pein il qui carmes la fut de crre olle tour
+Qui de l'oille,
+La uus poyareu dés more unge à le mamien.
+Il boire la toîte asc'ins, écos pare en grour de aus..
+<Q2>
+Se fes rolemes, pous disacompe je cheur!
+Que paseun de larbse queceux fos neai ânon qure
+De plorois monfé en décons de fire sous sollées ;
+Au mabieu t
+
+=== STEP 2000 ===
+PROMPT:
+<BEGIN>
+<Q1>
+
+SAMPLE:
+<BEGIN>
+<Q1>
+Une avelait de tous dont les fierre aux fris !
+Egnarda, proudre un corps bicien qui change,
+Qu'en contifiner regineant ses biens sespies,
+Sil on en est nous voltes sont se trout noc luris.
+<Q2>
+Regardient honcher, le fier, l'Etyger, flongire
+Et la fampe dett pourt qui la des cieux prés
+Sur des jour n'a fers parfaique-là qui :
+<T1>
+Froi des longtons encor de sans !
+Partité se suui miston
+Sans le thac pitant des bouqué dés.
+<T2>
+En a saire, entressse, où de l'incien.
+De la vaste infils de pité d'une qui sent
+
+=== STEP 3000 ===
+PROMPT:
+<BEGIN>
+<Q1>
+
+SAMPLE:
+<BEGIN>
+<Q1>
+Quelle au petite d'or, de nouveaux est d'un midal,
+Obord ne reconnaît qu'aux mancheurs éclatoues,
+J'en vois tous drêves d'admires le solitaire,
+Où répends que l'hiver sur les mélancons grâces,
+<Q2>
+Je vois entraîné pourtant le lourd bord sole,
+Entourner vainqui fapit murmurer à charmer,
+La couplaraine et front dans ma joyeuse de !
+Rêvers alongés à la foi, grifissant les lyres tons.
+<T1>
+Trais-moi à formé vertus de l'évèlle sentant,
+N'en t'encor à le nom du joyeux et de vivergent ;
+L'âme sourt de la sèvenir
+
+=== STEP 4000 ===
+PROMPT:
+<BEGIN>
+<Q1>
+
+SAMPLE:
+<BEGIN>
+<Q1>
+Solite ouvranté d'un tient parmi de bleus ;
+Il est le bord d'un répure a transpur l'autre
+Tout sultant la lune darma vainque accele,
+S'en éteux comme un nom paris lieu qu'il connu.
+<Q2>
+Des oisés, dit en dernictés parmice
+Encor le pieu des blancs de la terre des cieux,
+Doux étreint des Comotes, l'infininité des flammes
+Ou la paix reste déchira l'ou des ceux ;
+<T1>
+Est était le cerveau, la forêt de ses complores
+Sa feauté froide de la chanson fut fortique
+Des airs fait un regard de changer ses horizons.
+<T2
+
+=== STEP 5000 ===
+PROMPT:
+<BEGIN>
+<Q1>
+
+SAMPLE:
+<BEGIN>
+<Q1>
+C'est l'AzItèle est rongé
+Que ton Dieu baiser, dedans une pourpre flamborie
+A point qu'encrois ton chef sombre et tour monumeur,
+La terre avec l'écœant homme unie péris.
+<Q2>
+Comme un hait. Ta laisse aux jeux de moururie,
+Ma précule a routé marche son tarisé,
+Tu te verts, pour chacun comme un noupe encore,
+Sa mort, qu'il peu t'est depuis que j'aprends à ta mère,
+L'halme détouffre, le rêve que la mort n'acueille,
+<T1>
+Met tu me ragit à dédain puiser les cieux
+Que l'enfant m'a rendir de présence et fécondité
+
+=== STEP 6000 ===
+PROMPT:
+<BEGIN>
+<Q1>
+
+SAMPLE:
+<BEGIN>
+<Q1>
+Enjeune, amiés, quel on pense à la deserte
+D'autres regards buets, où dans leurs feux lys sacreints,
+Puisque de l'eauje est là la simple humide;
+Le trouvers du vert bouclé nous récolte.
+<Q2>
+Femne, et le sait occident le coeur
+Et délicait la pureté des beaux bienheux,
+Nouveauc superbe les chants de Romain,
+Vous livrez, seuls chantez au chapeté de fer.
+<T1>
+Ainsi lui ? Mon blanc noble à terre, ingédisé !
+Noble au coin leur repos regarde,
+Et c'est ceps puis que je demande patrisé.
+<T2>
+Mais son se cache à to
+
+=== STEP 7000 ===
+PROMPT:
+<BEGIN>
+<Q1>
+
+SAMPLE:
+<BEGIN>
+<Q1>
+Adieu dans votre piétille à brouille trépase,
+Et son conseil, dans le divin comble compli,
+A pété dans ce froit, pour sa noblinté, male
+Sous la couche d'Iléperide sans rêve reste
+<Q2>
+Sur la mer, par le front, ses stilles blanc,
+Et se dépouilonnent l'oeille gai suffisant ,
+Et dans sa palaiside il ne vit pas, sepourpre,
+Occupe ou l'éclat de ce doux !...
+<T1>
+A la maison sourde
+Que bien la plainte , en écrase la pâte ,
+Que la nuit du porte d'a fait d'un long de vête
+S'échappe en sonnet passer le déchir.
+<T2>
+
+=== STEP 8000 ===
+PROMPT:
+<BEGIN>
+<Q1>
+
+SAMPLE:
+<BEGIN>
+<Q1>
+La Gaîté, Saint-Dieu qui sautaire à ma Mère,
+Poète d'un éclat, par un ciel tro de sa grâce :
+A-toi que tendre-vile à l'air bande inhumain.
+Une autrepre du ciel de la graie usage?
+<Q2>
+Tu t'aimerais heureux d'un ciel embrumé
+Ou d'un bord frémissé d'illusions. Il régions
+Ne fuit que ton ange douteur, mon coeur exsignole ;
+Vous donnez vous les secrets : vous tenez vengereuse!
+<T1>
+Vous ne vous rêvez danseur, humbles au lointain,
+Si la tempête, à vos seigneurs de vides tables,
+Nous teiant de vos pieds treizett
+
+=== STEP 9000 ===
+PROMPT:
+<BEGIN>
+<Q1>
+
+SAMPLE:
+<BEGIN>
+<Q1>
+Car c'est une simple affreuse
+Regarde en Venipee, & la vanité,
+Ce monde aux troncs et dont la houle ennue,
+L'homme et le verro et l’enchoser jupe.
+<Q2>
+Il ne lia point mes ailles desormais asseoir,
+Chercha te donnne un coeur, d’Anneau la cigure
+De mes grands souspirs ne me firent connuir;
+Tel qu’un retour malice, et quelque Hergal je veux,
+<T1>
+Bien que ce quand Henis, l’Amour est aincore,
+Et contemplant les palays, Etroite, Jodelé
+Fut revenir le ces Etats les bagates sondes.
+<T2>
+Les Errangs, les rosers d
+
+=== STEP 10000 ===
+PROMPT:
+<BEGIN>
+<Q1>
+
+SAMPLE:
+<BEGIN>
+<Q1>
+Je ne reconvoy pas le songe de sa vie,
+Sa maîtresse lassement chenuchante profonde,
+Dame, et merci d'arm et du monde volon,
+Ni l'indignement de vous vene, ni tour
+Qui vient l'âme tire encore lumière.
+<Q2>
+Les deux secondants dévorent le grand vaillant,
+Sous les hommes antiques, leur coeur, avec leur envoyage :
+Leur esclave regard : mais en souriant la ville,
+Par le jeune fillet éteint, pour le Détruit troupé.
+<T1>
+Ô bonheur, insultant, François ! l'éclatelés,
+— En détruisa l'orgueil en de toutes couverts
+T
+
+=== STEP 11000 ===
+PROMPT:
+<BEGIN>
+<Q1>
+
+SAMPLE:
+<BEGIN>
+<Q1>
+Pour vingt braves chiffres de penser au coeur touterne :
+Car le vingt envioit sous l'ardent des gorges
+Mais dés par un eau de pieds de choses
+Dont la flamme à leurs pas : soudain le feuillage,
+<Q2>
+Hay du soleil mornes, vaincu de l'or en sang,
+Et rajures le temps où la mort seigne nous chemy
+L'Afrique a des feux de l'abeillanier du matyre
+D'un discret plus mort, desormant les plaines
+<T1>
+Elle monte les champs, les ne pourpres croire,
+Sans plus beaux d'Andres n'est rien encore,
+Ma volette verdure et si par
+
+=== STEP 12000 ===
+PROMPT:
+<BEGIN>
+<Q1>
+
+SAMPLE:
+<BEGIN>
+<Q1>
+Quand pour les gens de rameau clamait l'onde.
+Pourtant la tienne, enchantés sur les huraines,
+Les brancs faits sont là des chalons paternels,
+Noirs on verse au coeur les forces, rois seront.
+<Q2>
+L'étoile la mort, l'amour, tu ciseilles la tours,
+Aimes et en exillant sans flancs encor les chands fougues,
+Que la Nature est plus longue et splendeur ou cordée,
+Des belles qu'en luctubre aux gestes démonté.
+<T1>
+Pourquoi dis-je? adis-je, en bons joli la nuit s'épande,
+Je sonne près alors mon coeur un couchant pl
+
+=== STEP 13000 ===
+PROMPT:
+<BEGIN>
+<Q1>
+
+SAMPLE:
+<BEGIN>
+<Q1>
+Dieu plus par la nuit, le vent sourire si chuche,
+Lampera de ses beaux lends odoranges du gauet
+Le pays de la voix, le sublime butin,
+De courtise et de bonne feste!
+<Q2>
+Voilà la main du bonheur d’un passe
+Ne fera respler les débords florés
+Dans un parfum champ de tes angoissances
+Par aurore d'espice indolent,
+<T1>
+Car en ton humide onduleux audacinées ;
+Je connaîtrai mes maux crépusantes faces,
+À travers concerts ma : Vimisère de pierres,
+<T2>
+Car il est aussi ! le repos des bienheureux!
+N'importe pas les
+
+=== STEP 14000 ===
+PROMPT:
+<BEGIN>
+<Q1>
+
+SAMPLE:
+<BEGIN>
+<Q1>
+Mon seul, qui le vin, et printemps ne soit foisin,
+Non puis les boysmesme, et tousjours ces anges,
+Mais le doist ces qui sont remplis nos geanges
+Avec le Chaudois en ses courronnes d’estoit.
+<Q2>
+Si ce te donne seule, aussi on importun
+Mille fois apres descendre les couleur
+Du sien orangé en ancre terre les paresses:
+Au vert qui ne soit plus qu’accordant les Poëtes?
+Se haultant moins au sein du port Pylien.
+<T1>
+Ton entrelacement, je retrouve le sommeil,
+Au port de ce terrastre ; homme de bien que le conqu
+
+=== STEP 15000 ===
+PROMPT:
+<BEGIN>
+<Q1>
+
+SAMPLE:
+<BEGIN>
+<Q1>
+Oh, je n'ai pas besoin d'un rossignol,
+Où l'ombre me lamente est pousssière et sombre,
+Sous le mal délipé ma sonnente est la gloire.
+J'ai vu la gloire au souris d'or y rien, s'étourdis !
+<Q2>
+Sur le rêve des hardis, sur la nature ;
+Dans la cade et lentele on circ,
+Qui cherche un camar dans le puce, et châte
+Le lourd lisent-il dans la plaine discipe ?
+<T1>
+La prière est amoureux au premier charmé,
+Celle qui tient à ses chagrins frais de foy,
+Qui donne l'aube à midi se souvient mollement.
+<T2>
+Elle n'était p
+
+=== STEP 16000 ===
+PROMPT:
+<BEGIN>
+<Q1>
+
+SAMPLE:
+<BEGIN>
+<Q1>
+Inconnu des oiseaux incomme on demi,
+C'était les tourne savoir une Etherese
+Tomber un bouqui, que je sois le parc du Singesse,
+Chanter un père où le bonheur, qui m'engrave,
+<Q2>
+Sur le second de la nation de Femaine,
+Et les larmes de ce port que j'en fais muettes
+M'ont faiblement tousjours par les ennuisseaux
+Lesquelles nouveau de ceux que les cieux pleines.
+<T1>
+Ma salut reste le sou des hommes attitié,
+Je sens comme eux, et son cruel que on la vie,
+La paix magique est le voir plus morose bas.
+<T2>
+En les
+
+=== STEP 17000 ===
+PROMPT:
+<BEGIN>
+<Q1>
+
+SAMPLE:
+<BEGIN>
+<Q1>
+Pour faire la couleur, sans pitié vitaux,
+Pareille égonde, étoulant leurs premières fois,
+Dont l'ouragan cause à nos prophètes esprits
+Vont monter d'un seul se montra qu'en deux évoeaux —
+Paradis partout germaient aux fumes toiles,
+<Q2>
+Celui qui dont les morts fidèles et bleus belles
+Mais de l'amour d'Enfer, et dans leur souffle échelants
+On brisé des roseaux aux ciseaux des autans,
+Et leur senteur grondant qui jamais de la liè.
+<T1>
+Ainsi Horacis ! le spectre familier côte,
+Dorato ce n'est pas à Polka ! 
+
+=== STEP 18000 ===
+PROMPT:
+<BEGIN>
+<Q1>
+
+SAMPLE:
+<BEGIN>
+<Q1>
+Chère et rois, toujours notre âme du monde,
+Ressuscite musique encor comme un ange,
+La nuit, devant nous culture ses doigts viole,
+Et la rosée au ciel sa terre violette :
+<Q2>
+Fatalis que je pleure, hymes de son malheur,
+Pour en même commence un ruisseau de bois:
+Aujourd'hui, je le pri... nos dieux vivants se honore !
+Pareil abritant se reflète une aurore d'or !
+<T1>
+Nous n'avons pu de longs aussi, l'ébranle lui disperse
+Des passants, la terasse au loin le grandit du ciel
+Qui va, soutient la franche, et qu
+
+=== STEP 19000 ===
+PROMPT:
+<BEGIN>
+<Q1>
+
+SAMPLE:
+<BEGIN>
+<Q1>
+Ces couples amoureux, inextrins d'enfant est le prindre.
+Quand la Court. Sur nous je sais assez fort,
+Nous causser les lauriers, musiiques et tort;
+A l'été Nymphe des ports ont peu d'une endre.
+<Q2>
+Puisque nous, chariote, en bons, la grande vie ,
+Tandis que nous sembournant d'intiquitude et fort,
+Que de folles dorés et d'ombre de vieux vieux,
+Et qu'aux morts lesberges il avont toujours humaine ,
+<T1>
+Muet, il prend de plus que ce grand Printemps,
+N'on nomme Erydit, où la verdure a fait pris
+De l'aïeul ped
+
+=== STEP 20000 ===
+PROMPT:
+<BEGIN>
+<Q1>
+
+SAMPLE:
+<BEGIN>
+<Q1>
+Que soit le vain Soleil, que pour ses multités brise,
+Dans les syllphes battrés changeant un délire,
+En exemple à la voix des nobles potentiers,
+Et que leur air épuise a leur couleur passion.
+<Q2>
+Au moment du soleil qui verdira de talente
+L'astre au sommet de l'ombre et la mousse entière
+Au climat des banancs mes bras du sanuaire.
+<T1>
+Ils sont comme toujours, ainsi que ma carquesse,
+S'envolèrent, en lueur de la sagesse fleurs,
+Tes feux rajeus épands comme un flot esclave,
+<T2>
+Et fait couler le pays, l'a
+
+=== STEP 21000 ===
+PROMPT:
+<BEGIN>
+<Q1>
+
+SAMPLE:
+<BEGIN>
+<Q1>
+T'a-t-il vivé, notre âme ;
+Et noir, par chapelle !
+Dans le pré fraîche gémisse
+Un falboyé verselmet
+Pour accourir le fils effleurast?...
+<Q2>
+Et toi sous le vaste alors,
+La mer courbe et précise
+Où l'érigle sommeil s'évasse,
+Et la fleur du réveilleux.
+<T1>
+Mon charme est bienfaisant
+Où la vieille non s'enfuit mainte
+À celui qui souffre au bonheur, qui donne,
+En me met si d'ardeur à la courne ondole,
+<T2>
+Me connaient de la seule infinie
+Les femmes las du ciel les boissons
+Entouilaient son front la douce ch
+
+=== STEP 22000 ===
+PROMPT:
+<BEGIN>
+<Q1>
+
+SAMPLE:
+<BEGIN>
+<Q1>
+Un son rayon lointain dans la mousse
+Un fol encore déjà fait avoué,
+Dans l'air de l'amour, l'inondale famille,
+La nature sommeille, à l'arbre, et la pleur;
+<Q2>
+Tomba la tige aux braz de courber ce recueille,
+Comme un quatre fruit à rame besoin à peine,
+Et l'obscur louver des fleurs de sa grande beaulté
+N'est mêlé pour l'eau, pour l'heureuse marchaille.
+<T1>
+O doux regards, sereine ! Asiu du soir matel !
+Combien de temps, entre toute fermée
+Voulus, vous servirez vos chanches sur le lieu !
+<Q2>
+Pour effort,
+
+=== STEP 23000 ===
+PROMPT:
+<BEGIN>
+<Q1>
+
+SAMPLE:
+<BEGIN>
+<Q1>
+Ce qui fut métil au sourire ;
+Ou l'oeil de l'Or qui chasse
+Vers l'Oubli le Fortain ;
+<Q2>
+L'Egypte le son trompeur s'abrite,
+Le sur la place au ruisseau,
+Par la pierre hormide et la nature ;
+Regardant partout se couvre commentu ;
+D'un froid coeur du frère appasse sur les flots.
+<T1>
+J'eut mis à plaisir sur le feu ; mince nue ;
+Seigneur, sourde, fait flotter plus sa grande peinte,
+D'ici ouvre un narchime ou de sa peine clos.
+<T2>
+La lune a réfléchi par une tombe embaumée,
+Après des rares brins où son roc se
+
+=== STEP 24000 ===
+PROMPT:
+<BEGIN>
+<Q1>
+
+SAMPLE:
+<BEGIN>
+<Q1>
+Quand tu portais maudits et passés de la grande,
+Portes ton devis soudain, ô champ de pitié.
+Le jour est le héros pour l'Idéalique Sanne.
+<Q2>
+Tes dépouillants d'airains oiseaux soyeux, belle,
+Caressez noirs du ciel éternel et clair;
+Ce matin rudiculeux de la statine
+Approche qu'éveille vient ton sort de la foudre.
+<T1>
+C'est l'archipe en l'idylle mon coeur d'art-grifit
+Me frappe le secret de la terre cité
+Et mon cueeil et l'amour de son espoir fantasse.
+<T2>
+Mais ce qu'est là mon sens à mon regard se chan
+
+=== STEP 25000 ===
+PROMPT:
+<BEGIN>
+<Q1>
+
+SAMPLE:
+<BEGIN>
+<Q1>
+Vous ne souriez pas encor père ; et la nuit noire
+A pâlir les longueurs que l'ennui mystique
+Sous la turque orageuse en vain bouillonne, frissonne.
+Le plus terrige, par les temps, les bsons trop grelots.
+<Q2>
+Si nos chevaux horizons formis l'envahissaissoire,
+Et nous candides arts des serpents enchantés,
+Comme des trônels la mer augure impétueuse
+De l'univers du ciel laisser son concert vainqueur.
+<T1>
+Nos cheveux et nos appreurs nos tombes se retirent.
+Les beaux éclatants reçois, de sa fureur suprême;
+Non
+
+=== STEP 26000 ===
+PROMPT:
+<BEGIN>
+<Q1>
+
+SAMPLE:
+<BEGIN>
+<Q1>
+Je t'aime à vivre, ô viante Libelliqueuse
+D'aller à ta beauté ma sincérité,
+Ta contraincte d'amoureuse Angligule à ses yeux
+Où tout flambe et se pend dans les boudeliques.
+<Q2>
+Ta plus prompt à la fois un sonnet qu'un instant,
+Faisant de ton courage, et d'impuissante chef,
+Lorsque mon désir comme apparaît à chevaux palmes,
+Sous le fond du promenand qui tente écrasée ?
+<T1>
+Dont le sang et l'éclat mais qui brûlent en elles ;
+La feuille du Maure aux yeux par lis d'or et des soeurs,
+Lorsqu'au feu des éclats, 
+
+=== STEP 27000 ===
+PROMPT:
+<BEGIN>
+<Q1>
+
+SAMPLE:
+<BEGIN>
+<Q1>
+Au Ciel me fist sous un ciel sans courher les voiles,
+D'un nom y berçant un automne descend,
+Laisse tout sur l'aigue indolâtre et se penche
+La fait pour se redresser, reste fort des molles.
+<Q2>
+La voix qui s'attacha de Dieu sera pour les goûts,
+C'est le Dieu qui régout de son front de renches,
+Et fuit l'immensité d'un baiser de vendanger,
+Ses deux zéphirs autour dans un grand de sillage.
+<T1>
+Chacun, s'écoule toujours, d'un espoir énigme
+Et sa gaie il fait pour les accords et doux,
+L'homme de bon a tant p
+
+=== STEP 28000 ===
+PROMPT:
+<BEGIN>
+<Q1>
+
+SAMPLE:
+<BEGIN>
+<Q1>
+Dans les haranguis de la croix des noms bleus
+J'ai vu s'embaumer sous l'herbe fermane,
+Et, lourd feuillage, au gré du soleil,
+Les couvert mollement sont les antres closes.
+<Q2>
+Dieu, qui s'y méprise en l'horizon inextinge,
+Pourquoi ce qui fait reparer les élus sans croix,
+Trouver des rumeurs de la mitraille des roses,
+Dans des séeins poumés gardant l'âpre espérant.
+<T1>
+— Et dans la clarté disparaît la tempéramme,
+Toi, dans ces tlaidides mutins, embrasés d'une herme.
+Déjà ma source fleur parfois s'étend du
+
+=== STEP 29000 ===
+PROMPT:
+<BEGIN>
+<Q1>
+
+SAMPLE:
+<BEGIN>
+<Q1>
+L'allie, comme un moyen de bon volon casquet;
+Ici dont les rameaux frôlaient sous la coute
+Du passard chaste des paisibles parfumés;
+Sa fraîcheur aux palmes aux carophes de la nue.
+<Q2>
+L'airain s'ouvre à son vol sur toute sombre.
+Les deuils et les cherches, l'auguste, leur feu du courage;
+Le jour saige venu, la fille et le savais mirage,
+Les souvenirs c'est l'aigle et le renfrais troublé!
+<T1>
+Dans des cycles en guivre on voit superbourg des roses,
+Noyez de l'ormel qui foule en étincelant de lire,
+- Anniv
+
+=== STEP 30000 ===
+PROMPT:
+<BEGIN>
+<Q1>
+
+SAMPLE:
+<BEGIN>
+<Q1>
+Impapable hauteur, un adieu de longs jour,
+Souriante et source, elle vient vient délirement
+Le mouvant à pré son fils qui la fuit bruit...
+Ainsi tard, guide à travers le porte au-dessus,
+Un regard nous éteint, ce peuple batal.
+<Q2>
+Vous êtes par le sevoir ardent pur et délire;
+Que vous bannisez l'amour si confus d'amant,
+Que fait votre festin d'art à sa naissance,
+Ne voyez-vous pas dime et trop surs le preux?
+<T1>
+Et s'il est indocible, et l'eau vous s'étiede,
+Au bord du feu de l'on fuit de maintes guerre,
+
+=== STEP 31000 ===
+PROMPT:
+<BEGIN>
+<Q1>
+
+SAMPLE:
+<BEGIN>
+<Q1>
+Un fable aux pieds d'or sa tige en fête terne,
+Sinistre, déchiocit les trous endormis !
+Qu'un mode de lui promit, la force sentierne,
+Du rond de la cour rempond monte chaque homme !
+<Q2>
+Ou fait seigner le deuil! Laissez-moi, disentier,
+Et, sous mon marbre en nos grands boucliers sereine;
+Car il vole rend luisant : vous voirrez vos pleurs :
+Monter à la douleur de jeunesse. » Ah ! qui vous vient
+<T1>
+Et c'est un mourant dit sous l'extase de l'aurore
+Je croyais le souffle au tourment de mon aronge,
+J'aimais 
+
+=== STEP 32000 ===
+PROMPT:
+<BEGIN>
+<Q1>
+
+SAMPLE:
+<BEGIN>
+<Q1>
+Aux longz prestres acqus descendre,
+Autrefois au reflet peut soupir,
+Et qui seul de paix, et souille des brosées,
+Et pour là je n'ay point si haut bienveillées.
+<Q2>
+Je voyant de ces temples les mondestiques,
+Je veux répondre à loin les vers lents d'azur,
+L'étranger taillis, tant la foule étale
+Fait silencieusement sous mon grand'autant.
+<T1>
+Ores perfides, poursuivant faire en bate,
+Là, par un frisson et froide en toussigurant,
+Pour la reverition de ces compagnes trace.
+<T1>
+Je ne suis pas, combien des fo
+
+=== STEP 33000 ===
+PROMPT:
+<BEGIN>
+<Q1>
+
+SAMPLE:
+<BEGIN>
+<Q1>
+Les vabourins, noirs foussent les cités louches
+Du chevet bleu qui pas la fureur a souri,
+Les fragiles en foulent l'infini secret !
+Un rien fit pour Bélier les chemins du jour !
+<Q2>
+La Muse n'est pas sans but, l'autre efl à cette heure honte,
+Qui s'abandonne et s'éteint et qu'une lame aucun :
+Autres doigts déçus dont il pleurent en amour,
+Et l'amante brandit au même en ses approches.
+<T1>
+Toi qui nous germais avec son cœur le papillon,
+Comme son berceau nous reviendra la maison
+De la vie et de l'aveu, son
+
+=== STEP 34000 ===
+PROMPT:
+<BEGIN>
+<Q1>
+
+SAMPLE:
+<BEGIN>
+<Q1>
+Que ton rouge poulant se perde dans le breuvage ;
+Ta main par son bondit du citon plaçait,
+Où s'abri l'horizon et palpitait le soir
+Déteignent dans sa porte et qu'elle est soudaine.
+<Q2>
+De tout le ciel broutait le soleil se baigne,
+Source votre noire ciel du souvenir perint,
+Superbe, vous tinyez bien en espangnole.
+Vos cheveux de rose, et vos longues trompents.
+Et voz désrbaissez d'agonie et de liqueur
+<T1>
+Vous beaux après l'amour, et de peur vous devance
+Que j'en ferai vous ; mais, l'heure l'emportant. 
+
+=== STEP 35000 ===
+PROMPT:
+<BEGIN>
+<Q1>
+
+SAMPLE:
+<BEGIN>
+<Q1>
+Vos premiers amoureux dont les loix tient le saint
+De votus qu'un jour, Madame, ô mère vive encore,
+Tous les jours les os, les ondes ouverterement,
+Sans cesse petits travail comme des lacrymes.
+<Q2>
+Votre joue, elle fait, féléchir et solitaire,
+D'avril, fous les baisers toujours des transports moroses,
+Héritiens d'alentour et d'azur, de rire encor,
+Furent ouverte en morceau dans l'aube suivière.
+<T1>
+Au delà, du long blanc, ils se perdent le salon,
+Et les foronts meurtris sacrer, au parc ausolette
+Où la ne
+
+=== STEP 36000 ===
+PROMPT:
+<BEGIN>
+<Q1>
+
+SAMPLE:
+<BEGIN>
+<Q1>
+Où donc es-tu meilleures ? Amour ? qu'après ton nom,»
+Un vieux clément coquet de croire et de diamante?
+Rugissante et qu'en marchait subit la sombre ville :
+Désertère surpris ta parole flotte,
+<Q2>
+Sur les chapelets rit plus douce au chat pâle où s'ombre,
+Et, plus extasié froid, plus charmante et plus toile,
+Tes joyeux traduis de combat, sous le ventre d'or
+Ils reposent le front d'un chaptien est prospéré :
+<T1>
+Les parcours mieux rendre autant que l'histoire,
+Tyran de ce ballet, du brouillisseoir remplir,
+
+=== STEP 37000 ===
+PROMPT:
+<BEGIN>
+<Q1>
+
+SAMPLE:
+<BEGIN>
+<Q1>
+Mais tout pour plus creus, le temple ar fragilité,
+Mais n'a-tu jamais faisant comme jasté,
+Et vous auriez repris ma face suprême ange
+Dans le sombre illustre, et l'azur brillanté.
+<Q2>
+L'immuable, hélas ! que Vie est la jeune fête !
+Apres chrétiens d'amour qui sait enfanteur :
+Oh! je n'ai sais aucun amour et délire;
+On entends cette page, en son instant labeur :
+<T1>
+Faut-il que t'en vous croire avance une âme étrange ?
+Il devient qu'au soir est blanc à fleurs du compteur ;
+Qu'est-ce à suivre le port, tant
+
+=== STEP 38000 ===
+PROMPT:
+<BEGIN>
+<Q1>
+
+SAMPLE:
+<BEGIN>
+<Q1>
+Vous seriez temps, mon âme sainte et veille,
+Vous vous voyez partout la vie, orgueilleuse,
+Car la vie est s'unir, c'est l'hiver embaumé.
+<Q2>
+O vous étésiez jeune, amie à la perle fille ;
+Vous qui nous épandisaient au coeur fidèle en priante :
+Et vous dont la raison portant vous tout le baiser.
+La tâche est à nous donc de puissant, et vous une pierre!
+<T1>
+Hé qu'au terme de l'homme, une soupe à la bouche,
+A celui qui par de tous les yeux est immortelle,
+Fit celle, qui de charmer au plus avis certain.
+<T2>
+
+
+=== STEP 39000 ===
+PROMPT:
+<BEGIN>
+<Q1>
+
+SAMPLE:
+<BEGIN>
+<Q1>
+Sur les flots paraisien aux sympatos sombres,
+Un flot qui s'endort aux flancs du vent jardini,
+La flûte a revêtu de la profonde gloire.
+La brise qui calme et seul le marinier sent.
+<Q2>
+Le muscle allant après la fièvre sonore,
+A l'effet apparut au contour de ses rameaux,
+Sur les airs du républic les magiques abeilles,
+Chacun à son cœur fût rempli l'humble flambert.
+<T1>
+Les roses ont opéraré l'âme profane :
+Le jugement sur le bois se réconferte,
+Mais cette voix fuit l'homme que Méline
+Où frappe l'éclair da
+
+=== STEP 39999 ===
+PROMPT:
+<BEGIN>
+<Q1>
+
+SAMPLE:
+<BEGIN>
+<Q1>
+Si vous me traversez, plus d'une face d'or
+La fille a jeté sur mon âme couleur ?
+Vos longs bois sont pleurs sous vos longs yeux reprochers
+Et si mollement ne s'entendent pas les chemins.
+<Q2>
+Rien ne produit aux poisons toujours tremblants
+Je me sens en vos yeux, par une flotte cache,
+Et puis, entre au trésor et nager des pleurs ;
+J'ai bâti transi, vains, des coups de papillons ;
+<T1>
+Je vous aimai la mort, ou les seins mélancoliques,
+Et si les jeux me salent avec le passage !
+Muse, éloigne d'autres, dans 
+
