@@ -15,7 +15,8 @@ The main goal of the project is to study how well a small character-level Transf
 
 ## Corpus
 
-The corpus combines two sources of French sonnets. One is a local raw collection assembled manually, mainly containing older sonnets from roughly the sixteenth to the eighteenth centuries. The other is the Oupoco corpus in TEI XML format, which contributes additional sonnet material from the nineteenth and early twentieth centuries.
+The corpus combines two sources of French sonnets. One is a local raw collection assembled manually, mainly containing older sonnets from roughly the sixteenth to the eighteenth centuries. The other is the [Oupoco corpus](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.89) (Mélanie-Becquet, Grunspan,
+Maignant, Plancq, & Poibeau, 2022) in TEI XML format, which contributes additional sonnet material from the nineteenth and early twentieth centuries.
 
 From these sources, the project builds two corpus variants:
 
@@ -141,4 +142,7 @@ Intermediate `checkpoint_step_*.pt` files are intentionally ignored to keep the 
 - The codebase keeps executable entry points in `scripts/` and reusable modules in `src/`.
 - Structured generation experiments use prompts that match the annotated corpus format.
 - The rhyme analysis is approximate and based on orthographic similarity at line endings, not on full French phonology.
+
+## References
+Mélanie-Becquet, F., Grunspan, C., Maignant, M., Plancq, C., & Poibeau, T. (2022). _The Oupoco Database of French Sonnets from the 19th Century. Journal of Open Humanities Data_, 8. 
 
