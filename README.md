@@ -144,5 +144,5 @@ Intermediate `checkpoint_step_*.pt` files are intentionally ignored to keep the 
 - The rhyme analysis is approximate and based on orthographic similarity at line endings, not on full French phonology.
 
 ## References
-Mélanie-Becquet, F., Grunspan, C., Maignant, M., Plancq, C., & Poibeau, T. (2022). _The Oupoco Database of French Sonnets from the 19th Century. Journal of Open Humanities Data_, 8. 
+Mélanie-Becquet, F., Grunspan, C., Maignant, M., Plancq, C., & Poibeau, T. (2022). The Oupoco Database of French Sonnets from the 19th Century. _Journal of Open Humanities Data_, 8. 
 
